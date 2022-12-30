@@ -1,0 +1,127 @@
+a {
+  text-decoration: none !important;
+}
+body, .header_area{
+  background-color: rgba(160, 151, 151, 0.473) !important; 
+}
+#six{
+  height: 500px!important;
+}
+.navC{
+  cursor:pointer;
+  font-size: 20px !important;
+}
+.carousel-control.left, .carousel-control.right {
+  left: 0;
+  z-index: 1;
+}
+
+#one{
+  background: url(./img/portfolio/p1.png)!important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#two{
+  background: url(./img/portfolio/p2.png)!important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#three{
+  background: url(./img/portfolio/p3.png)!important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#four{
+  background: url(./img/portfolio/p4.png)!important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#five{
+  background: url(./img/portfolio/p5.png)!important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#six{
+  background: url(./img/portfolio/p6.png)!important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#seven{
+  background: url(./img/portfolio/p7.png) !important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#eight{
+  background: url(./img/portfolio/p8.png) !important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+#nine{
+  background: url(./img/portfolio/p9.png) !important;
+  height: 300px !important;
+  background-repeat: no-repeat !important;
+  background-size: 400px 300px !important;
+}
+.portbtn{
+  /* margin-left: 45% !important;
+  margin-top: 25% !important; */
+  border: 0ch;
+  background-color: transparent !important;
+  font-size: 20px !important;
+  color: transparent;
+  font-weight: 600;
+ 
+}
+.portbtn:hover{
+  color: white;
+}
+.contact-form{
+  
+  border-radius: 12px !important;
+  background: linear-gradient(to left, #6b2fe442,  #1e3ad8a1);
+}
+.contact{
+  margin-bottom: 20vh !important;
+}
+.submit-btn{
+  background: transparent;
+}
+
+
+.ct{
+  font-size: 80px;
+  color: black;
+  font-weight: 600;
+}
+
+svg:hover {
+  fill: linear-gradient(to right, #B82E1F, rgb(239, 68, 68), rgb(234, 179, 8)) !important;
+  -webkit-text-fill-color: transparent ;
+          -webkit-background-clip: text;
+          
+}
+.name{
+  color: black;
+  text-align: start;
+  font-weight: 600;
+}
+.divider {
+  display: block;
+  
+    color: white;
+    width:150px  !important;
+    margin: auto;
+    border-radius: 2px;
+    height: 1px;
+    background: white;
+    
+    
+}
